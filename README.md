@@ -4,4 +4,4 @@ Testing GitHub~
 
 ## Subheader
 
-Learning Git. And hi
+Learning Git. And hello
